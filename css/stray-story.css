@@ -1,9 +1,5 @@
-/* ===============================
    City of Strays · stray-story.css
-   一体化完整版本
-   =============================== */
 
-/* ==== 基础变量 ==== */
 :root{
   --bg: #020617;
   --text: #e5e7eb;
@@ -13,7 +9,6 @@
   --accent-deep:#f97316;
 }
 
-/* ==== 全局 Reset ==== */
 *{
   box-sizing:border-box;
   margin:0;
